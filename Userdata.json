@@ -1,14 +1,14 @@
 [
     {
         "device_id": "7fcb642059b99516",
-        "username": "user1",
+        "username": "123456",
         "password": "97554415",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "7fcb642059b99516",
-        "username": "user2",
+        "username": "123456",
         "password": "975544",
         "expirydate": "15-08-2025",
         "Allowoffline": false
