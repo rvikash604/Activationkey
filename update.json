@@ -1,12 +1,19 @@
-[
-  {
-    "device_id": "22fc003506969c86",
-    "expiry_date": "15-09-2025",
-    "url": "https://mp.page.gd/"
-  },
-  {
-    "device_id": "abcdef9876543210",
-    "expiry_date": "20-09-2025",
-    "url": "https://your-site.com/expired2"
-  }
-]
+{
+  "users": [
+    {
+      "device_id": "22fc003506969c86",
+      "expiry": "20-09-2025",
+      "redirect": "https://github.com/your-repo/update"
+    },
+    {
+      "device_id": "LMN456PQR",
+      "expiry": "25-09-2025",
+      "redirect": "https://github.com/your-repo/update"
+    },
+    {
+      "device_id": "UVW789JKL",
+      "expiry": "05-10-2025",
+      "redirect": "https://github.com/your-repo/update"
+    }
+  ]
+}
