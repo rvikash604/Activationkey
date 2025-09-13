@@ -1,19 +1,16 @@
 {
-  "users": [
-    {
-      "device_id": "22fc003506969c86",
-      "expiry": "20-09-2025",
-      "redirect": "https://github.com/your-repo/update"
-    },
-    {
-      "device_id": "LMN456PQR",
-      "expiry": "25-09-2025",
-      "redirect": "https://github.com/your-repo/update"
-    },
-    {
-      "device_id": "UVW789JKL",
-      "expiry": "05-10-2025",
-      "redirect": "https://github.com/your-repo/update"
-    }
-  ]
+    "device_id": "227e681c948a96e0",
+    "username": "girraj",
+    "password": "9999",
+    "expirydate": "16-08-2025",
+    "Allowoffline": false,
+    "redirect": "https://github.com/your-repo/update"
+},
+{
+    "device_id": "7fcb642059b99516",
+    "username": "vikash",
+    "password": "0904",
+    "expirydate": "15-12-2025",
+    "Allowoffline": false,
+    "redirect": "https://github.com/your-repo/update"
 }
